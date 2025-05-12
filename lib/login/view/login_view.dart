@@ -100,7 +100,7 @@ class _LoginViewState extends State<LoginView> {
                     ),
                   ),
                   Text(
-                    "M360 ICT",
+                    "NUBCC",
                     style: TextStyle(
                       fontSize: 14,
                       color: Color(0xFF47BA80),

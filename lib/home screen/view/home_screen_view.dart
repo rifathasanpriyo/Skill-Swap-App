@@ -45,7 +45,7 @@ class _HomeScreenViewState extends State<HomeScreenView> {
                                   fontSize: 16, color: Color(0xFF838383)),
                             ),
                             Text(
-                              'Ahmed Ariyan',
+                              'Tajrian Islam',
                               style: TextStyle(
                                   fontSize: 20, fontWeight: FontWeight.w600),
                             )
@@ -106,7 +106,7 @@ class _HomeScreenViewState extends State<HomeScreenView> {
                     child: Align(
                         child: ClipOval(
                       child: Image.asset(
-                        'assets/images/rifathasan.jpg',
+                        'assets/images/tajrian.png',
                         height: 70,
                         width: 70,
                       ),

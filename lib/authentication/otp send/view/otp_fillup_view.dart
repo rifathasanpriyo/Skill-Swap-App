@@ -124,7 +124,7 @@ class OtpFillupView extends StatelessWidget {
                     style: TextStyle(fontSize: 12),
                     children: [
                       TextSpan(
-                        text: 'M360 ICT',
+                        text: 'NUBCC',
                         style: TextStyle(
                             color: Colors.green, fontWeight: FontWeight.bold),
                       ),
